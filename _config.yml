@@ -1,0 +1,6 @@
+name: NeoScribe (km)
+pygments: true
+relative_permalinks: true
+permalink: /:year-:month-:day-:title.html
+baseurl: /km
+paginate: 20
